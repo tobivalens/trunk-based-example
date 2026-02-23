@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
-  },
+  "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tobivalens/trunk-based-example.git"
