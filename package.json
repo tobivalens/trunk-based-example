@@ -1,0 +1,23 @@
+{
+  "name": "trunk-based-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobivalens/trunk-based-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobivalens/trunk-based-example/issues"
+  },
+  "homepage": "https://github.com/tobivalens/trunk-based-example#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
